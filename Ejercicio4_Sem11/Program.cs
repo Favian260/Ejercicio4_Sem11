@@ -12,7 +12,6 @@ namespace Ejercicio4_Sem11
     {
         static void Main(string[] args)
         {
-            char omitir;
             string[] nombres = { "jose", "oscar", "carmen", "alexa" };
             string nombre;
             EscribirElementosDelArreglo(nombres);
